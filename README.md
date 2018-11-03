@@ -1,2 +1,2 @@
 # AndroidStudio
-Contains project from Android Studio
+Contains Android Studio Projects
